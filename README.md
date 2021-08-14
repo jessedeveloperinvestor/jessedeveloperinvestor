@@ -25,7 +25,7 @@ https://jesse-leite-softwares.onrender.com
   <a href="https://www.linkedin.com/in/jessealvesleite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
- ## Hello
+ ## Updates
 - 🔭 I’m currently working on Physician, my most important project which is a software that can do the work of a Clinic Physician
 - 🌱 I’m currently learning Santander Bootcamp Fullstack (Java, Angular etc)
 - 👯 I’m looking to collaborate on immortality research
