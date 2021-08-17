@@ -26,7 +26,7 @@ https://jesse-leite-softwares.onrender.com
 
  ## Updates
 - 🔭 I’m currently working on Physician, my most important project which is a software that can do the work of a Clinic Physician
-- 🌱 I’m currently learning Santander Bootcamp Fullstack (Java, Angular etc)
+- 🌱 I’m currently learning Santander Bootcamp Fullstack (Java, Angular etc), Cloud Data Engineer Cognizant Bootcamp and my college: Computer Engineering
 - 👯 I’m looking to collaborate on immortality research
 - 🤔 I’m looking for help with being valued and getting an IT formal technical job
 - 💬 Ask me about Python
