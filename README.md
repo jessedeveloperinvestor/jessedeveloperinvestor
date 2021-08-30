@@ -16,7 +16,50 @@ https://jesse-leite-softwares.onrender.com
 </div>
   
   ##
- 
+ #####
+ <div>
+   <h4><strong>My Stack</strong></h4>
+   <img src="./assets/delphi.png" width="30px">&ensp;&ensp;
+   <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/css3.svg" width="30px"> &ensp;&ensp;
+   <img src="./assets/firebase.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/oracle3.svg" width="80px">&ensp;&ensp;
+   <img src="./assets/mysql.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/firebird.svg" width="30px">&ensp;&ensp;
+</div>
+
+<!-- ********************************* Tools ******************************************** -->
+<div>
+   <h4><strong>Tools</strong></h4>
+   <img src="./assets/mint.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/windows.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/vscode.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/androidstudio.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/eclipse.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/jira.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/Insomnia.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/postman.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/git.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/github.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/sourcetree.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/notion.png" width="30px">&ensp;&ensp;
+   <img src="./assets/figma.svg" width="20px">&ensp;&ensp;
+</div>
+
+<!-- ********************************* Always Learning **************************************** -->
+<div>
+ <h4><strong>Always Learning</strong></h4>
+ <img src="./assets/javascript.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/typescript.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/nodejs.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/react.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/mongo.png" width="25px">&ensp;&ensp;
+ <img src="./assets/java.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/kotlin.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/python.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/docker.svg" width="30px">&ensp;&ensp;
+</div>
+ #####
 <div> 
   <a href = "mailto:https://jesse-leite-softwares.onrender.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessealvesleite/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
