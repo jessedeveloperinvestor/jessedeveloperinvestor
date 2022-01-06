@@ -24,7 +24,6 @@ https://jesse-leite-softwares.onrender.com
   <img align="center" alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Rainbow-Cat" height="130" width="130" src="https://i0.wp.com/gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif?fit=706%2C610&ssl=1">
 </div>
   
   ##
@@ -33,8 +32,8 @@ https://jesse-leite-softwares.onrender.com
   <a href="https://www.instagram.com/jesse_developer_investor/" target="_blank"><img width="30" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a>
   <a href = "mailto:jessedeveloperinvestor@gmail.com"><img width="35" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessealvesleite/" target="_blank"><img align="center" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1640210026~hmac=4383b68f962bda6558134b6ff7cde928"></a>
-  <a href="https://www.youtube.com/channel/UC8zkHKhBad-vElr7BWUvGRg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
+<a href="https://www.youtube.com/channel/UC8zkHKhBad-vElr7BWUvGRg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 
  ## Updates
