@@ -36,16 +36,6 @@ https://jesse-leite-softwares.onrender.com
 
 <a href="https://www.youtube.com/channel/UC8zkHKhBad-vElr7BWUvGRg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-
- ## Updates
-- 🔭 I’m currently working on Physician, my most important project which is a software that can do the work of a Clinic Physician
-- 🌱 I’m currently learning Full stack, Java & desktop technologies, focusing on Web development and - mostly - CYBERSECURITY and my college: Computer Engineering
-- 👯 I’m looking to collaborate on immortality research
-- 🤔 I’m looking for help with being valued and getting an IT formal technical job
-- 💬 Ask me about Python
-- 📫 How to reach me: https://jesse-leite-softwares.onrender.com
-- ⚡ Fun fact: The most important quality in programming is not knowing how to code, but how to solve many problems
-
 <h2 align="center">
   Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
    <!-- I'm <a href="">Tony Robin</a>!  -->
