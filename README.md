@@ -58,9 +58,7 @@ Better with/melhor com: Python, Java, React, Cybersecurity & Angular
 >Software that I sell: https://app.simplegoods.co/i/LESTCGJK<br>
 >Freelancing: https://www.truelancer.com/freelancer/tluser7977d32<br>
 >Website: https://jessealvesleitesoftwares.company.site<br>
->Personality's characteristics: https://recrutest.recrutei.com.br/public/result/eyJpdiI6ImNIQkFKV2dzZkI3eU1xRFhjUWlLTnc9PSIsInZhbH
-VlIjoiVzFXYnBiczdVOUdkOU5DQzhhSGFwUT09IiwibWFjIjoiNjRhNjEyZDhiZDA0NTU2N2U4NjhhMjI5MjdjN
-DM4ODVhNGY0ODVhMjMzZmI4OWEzM2Q3M2Q5ODFkZTM3YTAxNiJ9<br>
+>Personality's characteristics: https://recrutest.recrutei.com.br/public/result/eyJpdiI6ImNIQkFKV2dzZkI3eU1xRFhjUWlLTnc9PSIsInZhbHVlIjoiVzFXYnBiczdVOUdkOU5DQzhhSGFwUT09IiwibWFjIjoiNjRhNjEyZDhiZDA0NTU2N2U4NjhhMjI5MjdjNDM4ODVhNGY0ODVhMjMzZmI4OWEzM2Q3M2Q5ODFkZTM3YTAxNiJ9<br>
 
 I have plenty of experience and knowledge with the whole technological sector, from mechanical, pneumatic, hydraulic, electrical and electronic devices, hardwares and softwares and I always keep up on developing new technologies.
 
