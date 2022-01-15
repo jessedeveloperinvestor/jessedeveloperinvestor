@@ -45,3 +45,44 @@ https://jesse-leite-softwares.onrender.com
 - 💬 Ask me about Python
 - 📫 How to reach me: https://jesse-leite-softwares.onrender.com
 - ⚡ Fun fact: The most important quality in programming is not knowing how to code, but how to solve many problems
+
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+   <!-- I'm <a href="">Tony Robin</a>!  -->
+</h2>
+
+<h4 align='center'>
+  Java 11 | Python | Backend | Computer Engineer student
+</h4>
+
+## 🧑 About me:
+
+<p>
+Better with/melhor com: Python, Java, React, Cybersecurity & Angular
+
+>Portfolio website that I coded and hosted: https://jesse-leite-softwares.onrender.com/<br>
+>Github: https://github.com/jessedeveloperinvestor<br>
+>Repli - Dev portfolio: https://replit.com/@devengineer<br>
+> DIO: https://web.digitalinnovation.one/users/jesse_alves06?tab=achievements<br>
+>CodePen - Front End portfolio: https://codepen.io/jessedeveloperinvestor<br>
+>Software that I sell: https://app.simplegoods.co/i/LESTCGJK<br>
+>Freelancing: https://www.truelancer.com/freelancer/tluser7977d32<br>
+>Website: https://jessealvesleitesoftwares.company.site<br>
+>Personality's characteristics: https://recrutest.recrutei.com.br/public/result/eyJpdiI6ImNIQkFKV2dzZkI3eU1xRFhjUWlLTnc9PSIsInZhbH
+VlIjoiVzFXYnBiczdVOUdkOU5DQzhhSGFwUT09IiwibWFjIjoiNjRhNjEyZDhiZDA0NTU2N2U4NjhhMjI5MjdjN
+DM4ODVhNGY0ODVhMjMzZmI4OWEzM2Q3M2Q5ODFkZTM3YTAxNiJ9<br>
+
+I have plenty of experience and knowledge with the whole technological sector, from mechanical, pneumatic, hydraulic, electrical and electronic devices, hardwares and softwares and I always keep up on developing new technologies.
+
+Instagram: jesse_developer_investor
+https://www.instagram.com/jesse_developer_investor/ <br>
+</p>
+
+<h2>🥇 Specialised in:</h2>
+<p>🔸 Java 11
+  <br>🔸 Python
+<br>🔸 Backend
+<br>🔸 Desktop GUI applications with Java and Python
+<p>
+<br>
+
