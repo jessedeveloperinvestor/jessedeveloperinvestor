@@ -48,7 +48,7 @@ https://jesse-leite-softwares.onrender.com
 ## 🧑 About me:
 
 <p>
-Better with/melhor com: Python, Java, React, Cybersecurity & Angular
+Better with/melhor com: Java SE 11, Python 3, React, Cybersecurity & Angular
 
 >Portfolio website that I coded and hosted: https://jesse-leite-softwares.onrender.com/<br>
 >Github: https://github.com/jessedeveloperinvestor<br>
