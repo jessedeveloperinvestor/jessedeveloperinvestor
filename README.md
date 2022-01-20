@@ -90,13 +90,13 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <a href="https://dart.dev" target="_blank">
+        <!--<a href="https://dart.dev" target="_blank">
             <img
                 src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
                 alt="dart"
                 height="30"
             />
-        </a>
+        </a>-->
         <a href="https://www.w3schools.com/cs/" target="_blank">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -134,7 +134,7 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <a href="https://vuejs.org/" target="_blank">
+        <!--<a href="https://vuejs.org/" target="_blank">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
                 alt="vuejs"
@@ -161,7 +161,7 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 alt="bulma"
                 height="30"
             />
-        </a>
+        </a>-->
         <a href="https://getbootstrap.com" target="_blank">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -176,13 +176,13 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <a href="https://webpack.js.org" target="_blank">
+        <!--<a href="https://webpack.js.org" target="_blank">
             <img
                 src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png"
                 alt="webpack"
                 height="45"
             />
-        </a>
+        </a>-->
         <br /><br />
         Backend Development<br />
         <a href="https://nodejs.org" target="_blank">
@@ -193,7 +193,7 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="50"
             />
         </a>
-        <a href="https://expressjs.com" target="_blank">
+        <!--<a href="https://expressjs.com" target="_blank">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
                 alt="express"
@@ -213,7 +213,7 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 alt="nginx"
                 height="40"
             />
-        </a>
+        </a>-->
         <br /><br />
         Mobile Development<br />
         <a href="https://flutter.dev" target="_blank">
@@ -238,7 +238,7 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <br /><br />
+        <br /><!--<br />
         Static Site Generators<br />
         <a href="https://nextjs.org/" target="_blank">
             <img
@@ -261,7 +261,7 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <br /><br />
+        <br />--><br />
         Frameworks<br />
         <a href="https://laravel.com/" target="_blank">
             <img
@@ -270,13 +270,13 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <a href="https://www.electronjs.org" target="_blank">
+        <!--<a href="https://www.electronjs.org" target="_blank">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
                 alt="electron"
                 height="30"
             />
-        </a>
+        </a>-->
         <a href="https://dotnet.microsoft.com/" target="_blank">
             <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
@@ -344,7 +344,7 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <br /><br />
+        <br /><!--<br />
         Data Visualization<br />
         <a href="https://d3js.org/" target="_blank">
             <img
@@ -369,7 +369,7 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <br /><br />
+        <br />--><br />
         DevOps<br />
         <a href="https://www.gnu.org/software/bash/" target="_blank">
             <img
@@ -399,13 +399,13 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <a href="https://circleci.com" target="_blank">
+        <!--<a href="https://circleci.com" target="_blank">
             <img
                 src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
                 alt="circleci"
                 height="30"
             />
-        </a>
+        </a>-->
         <br /><br />
         Backend as a Service(BaaS)<br />
         <a href="https://vercel.com/dashboard" target="_blank">
