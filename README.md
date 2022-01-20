@@ -230,14 +230,14 @@ https://www.instagram.com/jesse_developer_investor/ <br>
                 height="30"
             />
         </a>
-        <a href="https://ionicframework.com" target="_blank">
+        <!--<a href="https://ionicframework.com" target="_blank">
             <img
                 src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
                 alt="ionic"
                 width="50"
                 height="30"
             />
-        </a>
+        </a>-->
         <br /><!--<br />
         Static Site Generators<br />
         <a href="https://nextjs.org/" target="_blank">
