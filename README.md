@@ -42,7 +42,7 @@ https://jesse-leite-softwares.onrender.com
 </h2>
 
 <h4 align='center'>
-  Java 11 | Python | Backend | Computer Engineer student
+  Java 11 | Python | Node.js | Backend | Computer Engineer student
 </h4>
 
 ## 🧑 About me:
