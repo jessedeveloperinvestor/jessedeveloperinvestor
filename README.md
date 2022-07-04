@@ -67,8 +67,9 @@ https://www.instagram.com/jesse_developer_investor/ <br>
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 Java 11
-  <br>🔸 Python
+<p>🔸 Node.js
+<br> 🔸 Java 11
+<br>🔸 Python
 <br>🔸 Backend
 <br>🔸 Desktop GUI applications with Java and Python
 <p>
