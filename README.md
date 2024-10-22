@@ -1,5 +1,5 @@
 ## Hi! I am Jessé Leite
-https://jesse-leite-softwares.onrender.com
+https://jessealvesleite-computerengineer.vercel.app/
  <div>
   <a href="https://github.com/jessedeveloperinvestor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessedeveloperinvestor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -42,13 +42,13 @@ https://jesse-leite-softwares.onrender.com
 </h2>
 
 <h4 align='center'>
-  Java 11 | Node.js | PHP | .NET C# | Django Python | Backend | Computer Engineer student
+  Biomedical and Computer Engineer
 </h4>
 
 ## 🧑 About me:
 
 <p>
-Better with/melhor com: Java SE 11, Python 3, React, Cybersecurity & Angular
+Better with/melhor com: Nodejs, JS, React, Java SE 11, Python 3, AI, Electroeletronics, Physics and Calculus
 
 >Portfolio website that I coded and hosted: https://jessealvesleite-computerengineer.vercel.app/<br>
 >Github: https://github.com/jessedeveloperinvestor<br>
