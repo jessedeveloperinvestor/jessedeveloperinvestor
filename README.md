@@ -62,8 +62,8 @@ Better with/melhor com: Nodejs, JS, React, Java SE 11, Python 3, AI, Electroelet
 
 I have plenty of experience and knowledge with the whole technological sector, from mechanical, pneumatic, hydraulic, electrical and electronic devices, hardwares and softwares and I always keep up on developing new technologies.
 
-Instagram: jesse_developer_investor
-https://www.instagram.com/jesse_developer_investor/ <br>
+Instagram: hephaestus_jesse
+https://www.instagram.com/hephaestus_jesse/ <br>
 </p>
 
 <h2>🥇 Specialised in:</h2>
