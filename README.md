@@ -42,7 +42,7 @@ https://jessealvesleite-computerengineer.vercel.app/
 </h2>
 
 <h4 align='center'>
-  Biomedical and Computer Engineer
+  Biomedical Engineer with São Paulo University MBA
 </h4>
 
 ## 🧑 About me:
