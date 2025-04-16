@@ -42,7 +42,7 @@ https://jessealvesleite-computerengineer.vercel.app/
 </h2>
 
 <h4 align='center'>
-  Biomedical Engineer with São Paulo University courses
+  Computer Engineer with São Paulo University MBA in Data
 </h4>
 
 ## 🧑 About me:
@@ -63,11 +63,12 @@ Better with/melhor com: Nodejs, JS, React, Java SE 11, Python 3, AI, Electroelet
 I have plenty of experience and knowledge with the whole technological sector, from mechanical, pneumatic, hydraulic, electrical and electronic devices, hardwares and softwares and I always keep up on developing new technologies.
 
 Instagram: hephaestus_jesse
-https://www.instagram.com/hephaestus_jesse/ <br>
+https://www.instagram.com/jesse.engenheiro.usp/ <br>
 </p>
 
 <h2>🥇 Specialised in:</h2>
 <p>🔸 Node.js
+<br> 🔸 Data engineering and data science
 <br> 🔸 Java 11
 <br>🔸 Python
 <br>🔸 Backend
