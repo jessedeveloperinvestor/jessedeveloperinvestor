@@ -42,7 +42,7 @@ https://jessealvesleite-computerengineer.vercel.app/
 </h2>
 
 <h4 align='center'>
-  Computer Engineer with São Paulo University MBA in Data
+  Computer Engineer with São Paulo University MBA in Data and post-grad in Cybersecurity
 </h4>
 
 ## 🧑 About me:
@@ -62,7 +62,7 @@ Better with/melhor com: Nodejs, JS, React, Java SE 11, Python 3, AI, Electroelet
 
 I have plenty of experience and knowledge with the whole technological sector, from mechanical, pneumatic, hydraulic, electrical and electronic devices, hardwares and softwares and I always keep up on developing new technologies.
 
-Instagram: hephaestus_jesse
+Instagram: jesse.engenheiro.usp
 https://www.instagram.com/jesse.engenheiro.usp/ <br>
 </p>
 
