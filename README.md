@@ -48,17 +48,14 @@ https://jessealvesleite-computerengineer.vercel.app/
 ## 🧑 About me:
 
 <p>
-Better with/melhor com: Nodejs, JS, React, Java SE 11, Python 3, AI, Electroeletronics, Physics and Calculus
+Better with/melhor com: AI, Nodejs, JS, React, Java SE 11, Python 3, AI, IoT, Physics and Calculus
 
 >Portfolio website that I coded and hosted: https://jessealvesleite-computerengineer.vercel.app/<br>
 >Github: https://github.com/jessedeveloperinvestor<br>
 >Repli - Dev portfolio: https://replit.com/@devengineer<br>
 > DIO: https://web.digitalinnovation.one/users/jesse_alves06?tab=achievements<br>
->CodePen - Front End portfolio: https://codepen.io/jessedeveloperinvestor<br>
 >Software that I sell: https://app.simplegoods.co/i/LESTCGJK<br>
->Freelancing: https://www.truelancer.com/freelancer/tluser7977d32<br>
->Website: https://jessealvesleitesoftwares.company.site<br>
->Personality's characteristics: https://recrutest.recrutei.com.br/public/result/eyJpdiI6ImNIQkFKV2dzZkI3eU1xRFhjUWlLTnc9PSIsInZhbHVlIjoiVzFXYnBiczdVOUdkOU5DQzhhSGFwUT09IiwibWFjIjoiNjRhNjEyZDhiZDA0NTU2N2U4NjhhMjI5MjdjNDM4ODVhNGY0ODVhMjMzZmI4OWEzM2Q3M2Q5ODFkZTM3YTAxNiJ9<br>
+>Website: [[https://jessealvesleitesoftwares.company.site](https://jessealvesleite-computerengineer.vercel.app)](https://jessealvesleite-computerengineer.vercel.app)<br>
 
 I have plenty of experience and knowledge with the whole technological sector, from mechanical, pneumatic, hydraulic, electrical and electronic devices, hardwares and softwares and I always keep up on developing new technologies.
 
@@ -67,7 +64,8 @@ https://www.instagram.com/jesse.engenheiro.usp/ <br>
 </p>
 
 <h2>🥇 Specialised in:</h2>
-<p>🔸 Node.js
+<p>🔸 AI
+<br> 🔸 Node.js
 <br> 🔸 Data engineering and data science
 <br> 🔸 Java 11
 <br>🔸 Python
