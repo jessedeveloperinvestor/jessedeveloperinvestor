@@ -54,8 +54,7 @@ Better with/melhor com: AI, Nodejs, JS, React, Java SE 11, Python 3, AI, IoT, Ph
 >Github: https://github.com/jessedeveloperinvestor<br>
 >Repli - Dev portfolio: https://replit.com/@devengineer<br>
 > DIO: https://web.digitalinnovation.one/users/jesse_alves06?tab=achievements<br>
->Software that I sell: https://app.simplegoods.co/i/LESTCGJK<br>
->Website: (https://jessealvesleite-computerengineer.vercel.app/)<br>
+>Software that I sell: https://app.simplegoods.co/i/ISFSYDIF<br>
 
 I have plenty of experience and knowledge with the whole technological sector, from mechanical, pneumatic, hydraulic, electrical and electronic devices, hardwares and softwares and I always keep up on developing new technologies.
 
