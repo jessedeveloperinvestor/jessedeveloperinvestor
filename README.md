@@ -1,4 +1,4 @@
-## Hi! I am Jessé Leite
+## Hi! I am Jessé Leite, the best Computer Engineer
 https://jessealvesleite-computerengineer.vercel.app/
  <div>
   <a href="https://github.com/jessedeveloperinvestor">
@@ -55,7 +55,7 @@ Better with/melhor com: AI, Nodejs, JS, React, Java SE 11, Python 3, AI, IoT, Ph
 >Repli - Dev portfolio: https://replit.com/@devengineer<br>
 > DIO: https://web.digitalinnovation.one/users/jesse_alves06?tab=achievements<br>
 >Software that I sell: https://app.simplegoods.co/i/LESTCGJK<br>
->Website: [[https://jessealvesleitesoftwares.company.site](https://jessealvesleite-computerengineer.vercel.app)](https://jessealvesleite-computerengineer.vercel.app)<br>
+>Website: (https://jessealvesleite-computerengineer.vercel.app/)<br>
 
 I have plenty of experience and knowledge with the whole technological sector, from mechanical, pneumatic, hydraulic, electrical and electronic devices, hardwares and softwares and I always keep up on developing new technologies.
 
