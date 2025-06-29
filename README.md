@@ -1,4 +1,4 @@
-## Hi! I am Jessé Leite, the best Computer Engineer
+## Hi! I am Jessé Leite, Computer Engineer coding since 2019
 https://jessealvesleite-computerengineer.vercel.app/
  <div>
   <a href="https://github.com/jessedeveloperinvestor">
