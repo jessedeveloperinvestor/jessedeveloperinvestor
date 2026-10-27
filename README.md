@@ -29,8 +29,8 @@ https://jessealvesleite-computerengineer.vercel.app/
   ##
  
 <div> 
-  <a href="https://www.instagram.com/jesse_developer_investor/" target="_blank"><img width="30" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a>
-  <a href = "mailto:jessedeveloperinvestor@gmail.com"><img width="35" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>
+  <a href="https://www.instagram.com/jesse.engenheiro.usp/" target="_blank"><img width="30" align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a>
+  <a href = "mailto:jesse.alves06@protonmail.com"><img width="35" align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jessealvesleite/" target="_blank"><img align="center" width="30" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1640210026~hmac=4383b68f962bda6558134b6ff7cde928"></a>
 </div>
 
